@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/argutier/dev/happy/active_projects/colorbook'
+let g:netrw_dirhist_2='/Users/argutier/dev/happy/active_projects'
+let g:netrw_dirhist_3='/Users/argutier/dev/happy/active_projects/confirmator_mvp'
+let g:netrw_dirhist_4='/Users/argutier/dev/happy/active_projects/confirmator_mvp/db'
