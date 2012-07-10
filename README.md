@@ -1,4 +1,4 @@
-vim_setup
+My Setup for my Vim configuration
 =========
 
 vim_setup
